@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#C0C0C0</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="orange">#FF7043</color>
+    <color name="purple">#9C27B0</color>
+    <color name="pink">#FF4081</color>
+    <color name="brown">#795548</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="blue_grey">#607D8B</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="light_red">#FF8A80</color>
+    <color name="light_yellow">#FFF500</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentDark">#9C27B0</color>
+    <color name="colorAccentLight">#FF7043</color>
+    <color name="colorAccentLightest">#FFEB3B</color>
+    <color name="operatorColor">#FF9800</color>
+    <color name="numberColor">#424242</color>
+    <color name="equalColor">#4CAF50</color>
+    <color name="clearColor">#F44336</color>
+    <color name="displayBg">#1E1E1E</color>
+    <color name="displayColor">#FFFFFF</color>
+
+</resources>
