@@ -17,6 +17,7 @@
         android:padding="10dp"
         >
         <TextView
+            android:id="@+id/display1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="30sp"
@@ -28,6 +29,7 @@
             android:gravity="end"
             />
         <TextView
+            android:id="@+id/display2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -275,7 +277,7 @@
                 style="@style/CalculatorButton"
                 android:layout_columnWeight="2"
                 android:background="@drawable/button_equal_background"
-                android:text="=" />
+                android:text="@string/_equal" />
 
         </GridLayout>
 
